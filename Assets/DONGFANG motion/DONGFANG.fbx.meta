@@ -1,0 +1,2089 @@
+fileFormatVersion: 2
+guid: dea99d69101ba084cb14e992d8242818
+timeCreated: 1530802351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 01
+    100002: 01_2
+    100004: 02
+    100006: 02_2
+    100008: 03
+    100010: 03_2
+    100012: 16
+    100014: 16_10
+    100016: 16_11
+    100018: 16_12
+    100020: 16_13
+    100022: 16_14
+    100024: 16_15
+    100026: 16_16
+    100028: 16_17
+    100030: 16_18
+    100032: 16_19
+    100034: 16_2
+    100036: 16_20
+    100038: 16_21
+    100040: 16_22
+    100042: 16_23
+    100044: 16_24
+    100046: 16_25
+    100048: 16_26
+    100050: 16_27
+    100052: 16_28
+    100054: 16_29
+    100056: 16_3
+    100058: 16_30
+    100060: 16_31
+    100062: 16_32
+    100064: 16_33
+    100066: 16_34
+    100068: 16_35
+    100070: 16_36
+    100072: 16_37
+    100074: 16_4
+    100076: 16_5
+    100078: 16_6
+    100080: 16_7
+    100082: 16_8
+    100084: 16_9
+    100086: _mox_mox110890
+    100088: _mox_mox111889
+    100090: _mox_mox112888
+    100092: _mox_mox114886
+    100094: _mox_mox115885
+    100096: _mox_mox116884
+    100098: _mox_mox117883
+    100100: _mox_mox117899
+    100102: _mox_mox117904
+    100104: _mox_mox117905
+    100106: _mox_mox117906
+    100108: _mox_mox117907
+    100110: _mox_mox117908
+    100112: _mox_mox117909
+    100114: _mox_mox117910
+    100116: _mox_mox117911
+    100118: _mox_mox117912
+    100120: _mox_mox117913
+    100122: _mox_mox117914
+    100124: _mox_mox117915
+    100126: _mox_mox117916
+    100128: _mox_mox117917
+    100130: _mox_mox117918
+    100132: _mox_mox117919
+    100134: _mox_mox117920
+    100136: _mox_mox117921
+    100138: _mox_mox117922
+    100140: _mox_mox117923
+    100142: _mox_mox117924
+    100144: _mox_mox117925
+    100146: _mox_mox117926
+    100148: _mox_mox117927
+    100150: _mox_mox117928
+    100152: _mox_mox117929
+    100154: _mox_mox117930
+    100156: _mox_mox117931
+    100158: _mox_mox117933
+    100160: _mox_mox117934
+    100162: _mox_mox117935
+    100164: _mox_mox117936
+    100166: _mox_mox117937
+    100168: _mox_mox117938
+    100170: _mox_mox117939
+    100172: _mox_mox117940
+    100174: _mox_mox117941
+    100176: _mox_mox117942
+    100178: _mox_mox117943
+    100180: _mox_mox117944
+    100182: _mox_mox117945
+    100184: _mox_mox117946
+    100186: _mox_mox117947
+    100188: _mox_mox117948
+    100190: _mox_mox117949
+    100192: _mox_mox117950
+    100194: _mox_mox117951
+    100196: _mox_mox117952
+    100198: _mox_mox117953
+    100200: _mox_mox117954
+    100202: _mox_mox117955
+    100204: _mox_mox117956
+    100206: _mox_mox117957
+    100208: _mox_mox117958
+    100210: _mox_mox117959
+    100212: _mox_mox117960
+    100214: _mox_mox117961
+    100216: _mox_mox117981
+    100218: _mox_mox117982
+    100220: _mox_mox117983
+    100222: _mox_mox117984
+    100224: _mox_mox117985
+    100226: _mox_mox117986
+    100228: _mox_mox117987
+    100230: _mox_mox117988
+    100232: _mox_mox117989
+    100234: _mox_mox117990
+    100236: _mox_mox117991
+    100238: _mox_mox117992
+    100240: _mox_mox117993
+    100242: _mox_mox117994
+    100244: _mox_mox117995
+    100246: _mox_mox117996
+    100248: _mox_mox2998
+    100250: _mox_mox3997
+    100252: _mox_mox4996
+    100254: _mox_mox50950
+    100256: _mox_mox51949
+    100258: _mox_mox52948
+    100260: _mox_mox53947
+    100262: _mox_mox54946
+    100264: _mox_mox55945
+    100266: _mox_mox56944
+    100268: _mox_mox57943
+    100270: _mox_mox5995
+    100272: _mox_mox60940
+    100274: _mox_mox61939
+    100276: _mox_mox62938
+    100278: _mox_mox63937
+    100280: _mox_mox64936
+    100282: _mox_mox65935
+    100284: _mox_mox66934
+    100286: _mox_mox67933
+    100288: _mox_mox68932
+    100290: _mox_mox69931
+    100292: _mox_mox6994
+    100294: _mox_mox70930
+    100296: _mox_mox71929
+    100298: _mox_mox72928
+    100300: _mox_mox73927
+    100302: _mox_mox74926
+    100304: _mox_mox75925
+    100306: _mox_mox76924
+    100308: _mox_mox78922
+    100310: _mox_mox79921
+    100312: _mox_mox7993
+    100314: _mox_mox8992
+    100316: _mox_mox9991
+    100318: Box001
+    100320: Box002
+    100322: Box003
+    100324: Box004
+    100326: Box141
+    100328: "Cinema_4D_\u7F16\u8F91\u5668"
+    100330: //RootNode
+    100332: glass
+    100334: place
+    100336: Plane001
+    100338: Plane001_1
+    100340: Road_gate
+    100342: schoolMate
+    100344: traffic_02
+    100346: traffic_02_2
+    100348: tree
+    100350: "\u5BF9\u8C61001"
+    100352: "\u5BF9\u8C61002"
+    100354: "\u5BF9\u8C61003"
+    100356: "\u5BF9\u8C61004"
+    100358: "\u5BF9\u8C61005"
+    100360: "\u5BF9\u8C61006"
+    100362: "\u5BF9\u8C61008"
+    100364: "\u5BF9\u8C61009"
+    100366: "\u5BF9\u8C61011"
+    100368: "\u6811\u76C6"
+    100370: "\u6811\u76C6001"
+    100372: "\u6811\u76D8"
+    100374: "\u7ACB\u65B9\u4F53"
+    100376: "\u7ACB\u65B9\u4F53_1"
+    100378: "\u7ACB\u65B9\u4F53_2"
+    100380: "\u7ACB\u65B9\u4F53_3"
+    100382: "\u7ACB\u65B9\u4F53_4"
+    100384: "\u7ACB\u65B9\u4F53_5"
+    100386: "\u7EC4009"
+    100388: "\u7EC4011"
+    400000: 01
+    400002: 01_2
+    400004: 02
+    400006: 02_2
+    400008: 03
+    400010: 03_2
+    400012: 16
+    400014: 16_10
+    400016: 16_11
+    400018: 16_12
+    400020: 16_13
+    400022: 16_14
+    400024: 16_15
+    400026: 16_16
+    400028: 16_17
+    400030: 16_18
+    400032: 16_19
+    400034: 16_2
+    400036: 16_20
+    400038: 16_21
+    400040: 16_22
+    400042: 16_23
+    400044: 16_24
+    400046: 16_25
+    400048: 16_26
+    400050: 16_27
+    400052: 16_28
+    400054: 16_29
+    400056: 16_3
+    400058: 16_30
+    400060: 16_31
+    400062: 16_32
+    400064: 16_33
+    400066: 16_34
+    400068: 16_35
+    400070: 16_36
+    400072: 16_37
+    400074: 16_4
+    400076: 16_5
+    400078: 16_6
+    400080: 16_7
+    400082: 16_8
+    400084: 16_9
+    400086: _mox_mox110890
+    400088: _mox_mox111889
+    400090: _mox_mox112888
+    400092: _mox_mox114886
+    400094: _mox_mox115885
+    400096: _mox_mox116884
+    400098: _mox_mox117883
+    400100: _mox_mox117899
+    400102: _mox_mox117904
+    400104: _mox_mox117905
+    400106: _mox_mox117906
+    400108: _mox_mox117907
+    400110: _mox_mox117908
+    400112: _mox_mox117909
+    400114: _mox_mox117910
+    400116: _mox_mox117911
+    400118: _mox_mox117912
+    400120: _mox_mox117913
+    400122: _mox_mox117914
+    400124: _mox_mox117915
+    400126: _mox_mox117916
+    400128: _mox_mox117917
+    400130: _mox_mox117918
+    400132: _mox_mox117919
+    400134: _mox_mox117920
+    400136: _mox_mox117921
+    400138: _mox_mox117922
+    400140: _mox_mox117923
+    400142: _mox_mox117924
+    400144: _mox_mox117925
+    400146: _mox_mox117926
+    400148: _mox_mox117927
+    400150: _mox_mox117928
+    400152: _mox_mox117929
+    400154: _mox_mox117930
+    400156: _mox_mox117931
+    400158: _mox_mox117933
+    400160: _mox_mox117934
+    400162: _mox_mox117935
+    400164: _mox_mox117936
+    400166: _mox_mox117937
+    400168: _mox_mox117938
+    400170: _mox_mox117939
+    400172: _mox_mox117940
+    400174: _mox_mox117941
+    400176: _mox_mox117942
+    400178: _mox_mox117943
+    400180: _mox_mox117944
+    400182: _mox_mox117945
+    400184: _mox_mox117946
+    400186: _mox_mox117947
+    400188: _mox_mox117948
+    400190: _mox_mox117949
+    400192: _mox_mox117950
+    400194: _mox_mox117951
+    400196: _mox_mox117952
+    400198: _mox_mox117953
+    400200: _mox_mox117954
+    400202: _mox_mox117955
+    400204: _mox_mox117956
+    400206: _mox_mox117957
+    400208: _mox_mox117958
+    400210: _mox_mox117959
+    400212: _mox_mox117960
+    400214: _mox_mox117961
+    400216: _mox_mox117981
+    400218: _mox_mox117982
+    400220: _mox_mox117983
+    400222: _mox_mox117984
+    400224: _mox_mox117985
+    400226: _mox_mox117986
+    400228: _mox_mox117987
+    400230: _mox_mox117988
+    400232: _mox_mox117989
+    400234: _mox_mox117990
+    400236: _mox_mox117991
+    400238: _mox_mox117992
+    400240: _mox_mox117993
+    400242: _mox_mox117994
+    400244: _mox_mox117995
+    400246: _mox_mox117996
+    400248: _mox_mox2998
+    400250: _mox_mox3997
+    400252: _mox_mox4996
+    400254: _mox_mox50950
+    400256: _mox_mox51949
+    400258: _mox_mox52948
+    400260: _mox_mox53947
+    400262: _mox_mox54946
+    400264: _mox_mox55945
+    400266: _mox_mox56944
+    400268: _mox_mox57943
+    400270: _mox_mox5995
+    400272: _mox_mox60940
+    400274: _mox_mox61939
+    400276: _mox_mox62938
+    400278: _mox_mox63937
+    400280: _mox_mox64936
+    400282: _mox_mox65935
+    400284: _mox_mox66934
+    400286: _mox_mox67933
+    400288: _mox_mox68932
+    400290: _mox_mox69931
+    400292: _mox_mox6994
+    400294: _mox_mox70930
+    400296: _mox_mox71929
+    400298: _mox_mox72928
+    400300: _mox_mox73927
+    400302: _mox_mox74926
+    400304: _mox_mox75925
+    400306: _mox_mox76924
+    400308: _mox_mox78922
+    400310: _mox_mox79921
+    400312: _mox_mox7993
+    400314: _mox_mox8992
+    400316: _mox_mox9991
+    400318: Box001
+    400320: Box002
+    400322: Box003
+    400324: Box004
+    400326: Box141
+    400328: "Cinema_4D_\u7F16\u8F91\u5668"
+    400330: //RootNode
+    400332: glass
+    400334: place
+    400336: Plane001
+    400338: Plane001_1
+    400340: Road_gate
+    400342: schoolMate
+    400344: traffic_02
+    400346: traffic_02_2
+    400348: tree
+    400350: "\u5BF9\u8C61001"
+    400352: "\u5BF9\u8C61002"
+    400354: "\u5BF9\u8C61003"
+    400356: "\u5BF9\u8C61004"
+    400358: "\u5BF9\u8C61005"
+    400360: "\u5BF9\u8C61006"
+    400362: "\u5BF9\u8C61008"
+    400364: "\u5BF9\u8C61009"
+    400366: "\u5BF9\u8C61011"
+    400368: "\u6811\u76C6"
+    400370: "\u6811\u76C6001"
+    400372: "\u6811\u76D8"
+    400374: "\u7ACB\u65B9\u4F53"
+    400376: "\u7ACB\u65B9\u4F53_1"
+    400378: "\u7ACB\u65B9\u4F53_2"
+    400380: "\u7ACB\u65B9\u4F53_3"
+    400382: "\u7ACB\u65B9\u4F53_4"
+    400384: "\u7ACB\u65B9\u4F53_5"
+    400386: "\u7EC4009"
+    400388: "\u7EC4011"
+    2000000: "Cinema_4D_\u7F16\u8F91\u5668"
+    2100000: No Name
+    2100002: "\u6750\u8D28.2"
+    2100004: "\u6750\u8D28.3"
+    2100006: "\u6750\u8D28.1"
+    2100008: "\u6750\u8D28"
+    2100010: 'Material #9'
+    2100012: 'Material #9.1'
+    2100014: 'Material #9.2'
+    2100016: 'Material #9.3'
+    2100018: 'Material #9.4'
+    2100020: 'Material #9.5'
+    2100022: 'Material #9.6'
+    2100024: 'Material #9.7'
+    2100026: 'Material #9.8'
+    2100028: 'Material #9.9'
+    2100030: 'Material #9.10'
+    2100032: 'Material #9.11'
+    2100034: 'Material #9.12'
+    2100036: 'Material #9.13'
+    2100038: 'Material #9.14'
+    2100040: 'Material #9.15'
+    2100042: 'Material #9.16'
+    2100044: 'Material #9.17'
+    2100046: 'Material #9.18'
+    2100048: 'Material #9.19'
+    2100050: 'Material #9.20'
+    2100052: 'Material #9.21'
+    2100054: 'Material #9.22'
+    2100056: 'Material #9.23'
+    2100058: 'Material #9.24'
+    2100060: 'Material #9.25'
+    2100062: 'Material #9.26'
+    2100064: 'Material #9.27'
+    2100066: 'Material #9.28'
+    2100068: 'Material #9.29'
+    2100070: 'Material #9.30'
+    2100072: 'Material #9.31'
+    2100074: 'Material #9.32'
+    2100076: 'Material #9.33'
+    2100078: 'Material #9.34'
+    2100080: 'Material #13'
+    2100082: 'Material #12'
+    2100084: 'Material #11'
+    2100086: 'Material #9.35'
+    2100088: 'Material #9.36'
+    2100090: 'Material #9.37'
+    2100092: 'Material #9.38'
+    2100094: 'Material #9.39'
+    2100096: 'Material #9.40'
+    2100098: 'Material #9.41'
+    2100100: 'Material #15'
+    2100102: 'Material #15.1'
+    2100104: 'Material #15.2'
+    2100106: 'Material #9.42'
+    2100108: 'Material #9.43'
+    2100110: 'Material #9.44'
+    2100112: 'Material #9.45'
+    2100114: 'Material #9.46'
+    2100116: 'Material #9.47'
+    2100118: 'Material #9.48'
+    2100120: 'Material #9.49'
+    2100122: 'Material #9.50'
+    2100124: 'Material #9.51'
+    2100126: 'Material #9.52'
+    2100128: 'Material #8'
+    2100130: 'Material #48'
+    2100132: 'Material #22'
+    2100134: 'Material #39'
+    2100136: 'Material #7'
+    2100138: 'Material #15.3'
+    2100140: 'Material #15.4'
+    2100142: 'Material #15.5'
+    2100144: 'Material #15.6'
+    2100146: 'Material #15.7'
+    2100148: 'Material #15.8'
+    2100150: 'Material #15.9'
+    2100152: 'Material #15.10'
+    2100154: 'Material #15.11'
+    2100156: 'Material #15.12'
+    2100158: 'Material #9.53'
+    2100160: 'Material #9.54'
+    2100162: 'Material #9.55'
+    2100164: 'Material #9.56'
+    2100166: 'Material #9.57'
+    2100168: 'Material #15.13'
+    2100170: 'Material #38'
+    2100172: 'Material #31'
+    2100174: 'Material #34'
+    2100176: 'Material #21'
+    2100178: 'Material #9.58'
+    2100180: 'Material #9.59'
+    2100182: 'Material #9.60'
+    2100184: 'Material #9.61'
+    2100186: 'Material #9.62'
+    2100188: 'Material #9.63'
+    2100190: 'Material #9.64'
+    2100192: 'Material #9.65'
+    2100194: 'Material #9.66'
+    2100196: 'Material #9.67'
+    2100198: 'Material #9.68'
+    2100200: 'Material #9.69'
+    2100202: 'Material #9.70'
+    2100204: 'Material #9.71'
+    2100206: 'Material #9.72'
+    2100208: 'Material #9.73'
+    2100210: 'Material #9.74'
+    2100212: 'Material #9.75'
+    2100214: 'Material #9.76'
+    2100216: 'Material #9.77'
+    2100218: 'Material #9.78'
+    2100220: 'Material #9.79'
+    2100222: 'Material #9.80'
+    2100224: 'Material #9.81'
+    2100226: 'Material #9.82'
+    2100228: 'Material #9.83'
+    2100230: 'Material #9.84'
+    2100232: 'Material #9.85'
+    2100234: 'Material #9.86'
+    2100236: 'Material #9.87'
+    2100238: 'Material #9.88'
+    2100240: 'Material #9.89'
+    2100242: 'Material #9.90'
+    2100244: 'Material #9.91'
+    2100246: 'Material #9.92'
+    2100248: 'Material #9.93'
+    2100250: 'Material #4'
+    2100252: 'Material #4.1'
+    2100254: 'Material #9.94'
+    2100256: 'Material #9.95'
+    2100258: 'Material #9.96'
+    2100260: 'Material #9.97'
+    2100262: 'Material #9.98'
+    2100264: 'Material #9.99'
+    2100266: 'Material #15.14'
+    2100268: 'Material #15.15'
+    2100270: 'Material #43'
+    2100272: 'Material #15.16'
+    2100274: 'Material #15.17'
+    2100276: 'Material #7.1'
+    2100278: 'Material #15.18'
+    2100280: 'Material #15.19'
+    2100282: 'Material #15.20'
+    2100284: 'Material #15.21'
+    2100286: 'Material #15.22'
+    2100288: 'Material #42'
+    2100290: 'Material #45'
+    2100292: 'Material #23'
+    2100294: 'Material #47'
+    2100296: 'Material #29'
+    2100298: 'Material #29.1'
+    2100300: 'Material #25'
+    2100302: 'Material #24'
+    2100304: 'Material #16'
+    2100306: 'Material #51'
+    2100308: 'Material #46'
+    2100310: 'Material #37'
+    2100312: 'Material #33'
+    2100314: 'Material #25.1'
+    2100316: 'Material #41'
+    2100318: 'Material #40'
+    2100320: 'Material #6'
+    2100322: 'Material #40.1'
+    2100324: 'Material #6.1'
+    2100326: 'Material #41.1'
+    2100328: 'Material #6.2'
+    2100330: 'Material #40.2'
+    2100332: 'Material #41.2'
+    2100334: 'Material #36'
+    2100336: 'Material #35'
+    2100338: 'Material #37.1'
+    2100340: 'Material #48.1'
+    2100342: 'Material #49'
+    2300000: 16
+    2300002: 16_10
+    2300004: 16_11
+    2300006: 16_12
+    2300008: 16_13
+    2300010: 16_14
+    2300012: 16_15
+    2300014: 16_16
+    2300016: 16_17
+    2300018: 16_18
+    2300020: 16_19
+    2300022: 16_2
+    2300024: 16_20
+    2300026: 16_21
+    2300028: 16_22
+    2300030: 16_23
+    2300032: 16_24
+    2300034: 16_25
+    2300036: 16_26
+    2300038: 16_27
+    2300040: 16_28
+    2300042: 16_29
+    2300044: 16_3
+    2300046: 16_30
+    2300048: 16_31
+    2300050: 16_32
+    2300052: 16_33
+    2300054: 16_34
+    2300056: 16_35
+    2300058: 16_36
+    2300060: 16_37
+    2300062: 16_4
+    2300064: 16_5
+    2300066: 16_6
+    2300068: 16_7
+    2300070: 16_8
+    2300072: 16_9
+    2300074: _mox_mox110890
+    2300076: _mox_mox111889
+    2300078: _mox_mox112888
+    2300080: _mox_mox114886
+    2300082: _mox_mox115885
+    2300084: _mox_mox116884
+    2300086: _mox_mox117883
+    2300088: _mox_mox117899
+    2300090: _mox_mox117904
+    2300092: _mox_mox117905
+    2300094: _mox_mox117906
+    2300096: _mox_mox117907
+    2300098: _mox_mox117908
+    2300100: _mox_mox117909
+    2300102: _mox_mox117910
+    2300104: _mox_mox117911
+    2300106: _mox_mox117912
+    2300108: _mox_mox117913
+    2300110: _mox_mox117914
+    2300112: _mox_mox117915
+    2300114: _mox_mox117916
+    2300116: _mox_mox117917
+    2300118: _mox_mox117918
+    2300120: _mox_mox117919
+    2300122: _mox_mox117920
+    2300124: _mox_mox117921
+    2300126: _mox_mox117922
+    2300128: _mox_mox117923
+    2300130: _mox_mox117924
+    2300132: _mox_mox117925
+    2300134: _mox_mox117926
+    2300136: _mox_mox117927
+    2300138: _mox_mox117928
+    2300140: _mox_mox117929
+    2300142: _mox_mox117930
+    2300144: _mox_mox117931
+    2300146: _mox_mox117933
+    2300148: _mox_mox117934
+    2300150: _mox_mox117935
+    2300152: _mox_mox117936
+    2300154: _mox_mox117937
+    2300156: _mox_mox117938
+    2300158: _mox_mox117939
+    2300160: _mox_mox117940
+    2300162: _mox_mox117941
+    2300164: _mox_mox117942
+    2300166: _mox_mox117943
+    2300168: _mox_mox117944
+    2300170: _mox_mox117945
+    2300172: _mox_mox117946
+    2300174: _mox_mox117947
+    2300176: _mox_mox117948
+    2300178: _mox_mox117949
+    2300180: _mox_mox117950
+    2300182: _mox_mox117951
+    2300184: _mox_mox117952
+    2300186: _mox_mox117953
+    2300188: _mox_mox117954
+    2300190: _mox_mox117955
+    2300192: _mox_mox117956
+    2300194: _mox_mox117957
+    2300196: _mox_mox117958
+    2300198: _mox_mox117959
+    2300200: _mox_mox117960
+    2300202: _mox_mox117961
+    2300204: _mox_mox117981
+    2300206: _mox_mox117982
+    2300208: _mox_mox117983
+    2300210: _mox_mox117984
+    2300212: _mox_mox117985
+    2300214: _mox_mox117986
+    2300216: _mox_mox117987
+    2300218: _mox_mox117988
+    2300220: _mox_mox117989
+    2300222: _mox_mox117990
+    2300224: _mox_mox117991
+    2300226: _mox_mox117992
+    2300228: _mox_mox117993
+    2300230: _mox_mox117994
+    2300232: _mox_mox117995
+    2300234: _mox_mox117996
+    2300236: _mox_mox2998
+    2300238: _mox_mox3997
+    2300240: _mox_mox4996
+    2300242: _mox_mox50950
+    2300244: _mox_mox51949
+    2300246: _mox_mox52948
+    2300248: _mox_mox53947
+    2300250: _mox_mox54946
+    2300252: _mox_mox55945
+    2300254: _mox_mox56944
+    2300256: _mox_mox57943
+    2300258: _mox_mox5995
+    2300260: _mox_mox60940
+    2300262: _mox_mox61939
+    2300264: _mox_mox62938
+    2300266: _mox_mox63937
+    2300268: _mox_mox64936
+    2300270: _mox_mox65935
+    2300272: _mox_mox66934
+    2300274: _mox_mox67933
+    2300276: _mox_mox68932
+    2300278: _mox_mox69931
+    2300280: _mox_mox6994
+    2300282: _mox_mox70930
+    2300284: _mox_mox71929
+    2300286: _mox_mox72928
+    2300288: _mox_mox73927
+    2300290: _mox_mox74926
+    2300292: _mox_mox75925
+    2300294: _mox_mox76924
+    2300296: _mox_mox78922
+    2300298: _mox_mox79921
+    2300300: _mox_mox7993
+    2300302: _mox_mox8992
+    2300304: _mox_mox9991
+    2300306: Box001
+    2300308: Box002
+    2300310: Box003
+    2300312: Box004
+    2300314: Box141
+    2300316: glass
+    2300318: place
+    2300320: Plane001
+    2300322: Plane001_1
+    2300324: Road_gate
+    2300326: traffic_02
+    2300328: traffic_02_2
+    2300330: "\u5BF9\u8C61001"
+    2300332: "\u5BF9\u8C61002"
+    2300334: "\u5BF9\u8C61003"
+    2300336: "\u5BF9\u8C61004"
+    2300338: "\u5BF9\u8C61005"
+    2300340: "\u5BF9\u8C61006"
+    2300342: "\u5BF9\u8C61008"
+    2300344: "\u5BF9\u8C61009"
+    2300346: "\u5BF9\u8C61011"
+    2300348: "\u6811\u76C6"
+    2300350: "\u6811\u76C6001"
+    2300352: "\u6811\u76D8"
+    2300354: "\u7ACB\u65B9\u4F53"
+    2300356: "\u7ACB\u65B9\u4F53_1"
+    2300358: "\u7ACB\u65B9\u4F53_2"
+    2300360: "\u7ACB\u65B9\u4F53_3"
+    2300362: "\u7ACB\u65B9\u4F53_4"
+    2300364: "\u7ACB\u65B9\u4F53_5"
+    3300000: 16
+    3300002: 16_10
+    3300004: 16_11
+    3300006: 16_12
+    3300008: 16_13
+    3300010: 16_14
+    3300012: 16_15
+    3300014: 16_16
+    3300016: 16_17
+    3300018: 16_18
+    3300020: 16_19
+    3300022: 16_2
+    3300024: 16_20
+    3300026: 16_21
+    3300028: 16_22
+    3300030: 16_23
+    3300032: 16_24
+    3300034: 16_25
+    3300036: 16_26
+    3300038: 16_27
+    3300040: 16_28
+    3300042: 16_29
+    3300044: 16_3
+    3300046: 16_30
+    3300048: 16_31
+    3300050: 16_32
+    3300052: 16_33
+    3300054: 16_34
+    3300056: 16_35
+    3300058: 16_36
+    3300060: 16_37
+    3300062: 16_4
+    3300064: 16_5
+    3300066: 16_6
+    3300068: 16_7
+    3300070: 16_8
+    3300072: 16_9
+    3300074: _mox_mox110890
+    3300076: _mox_mox111889
+    3300078: _mox_mox112888
+    3300080: _mox_mox114886
+    3300082: _mox_mox115885
+    3300084: _mox_mox116884
+    3300086: _mox_mox117883
+    3300088: _mox_mox117899
+    3300090: _mox_mox117904
+    3300092: _mox_mox117905
+    3300094: _mox_mox117906
+    3300096: _mox_mox117907
+    3300098: _mox_mox117908
+    3300100: _mox_mox117909
+    3300102: _mox_mox117910
+    3300104: _mox_mox117911
+    3300106: _mox_mox117912
+    3300108: _mox_mox117913
+    3300110: _mox_mox117914
+    3300112: _mox_mox117915
+    3300114: _mox_mox117916
+    3300116: _mox_mox117917
+    3300118: _mox_mox117918
+    3300120: _mox_mox117919
+    3300122: _mox_mox117920
+    3300124: _mox_mox117921
+    3300126: _mox_mox117922
+    3300128: _mox_mox117923
+    3300130: _mox_mox117924
+    3300132: _mox_mox117925
+    3300134: _mox_mox117926
+    3300136: _mox_mox117927
+    3300138: _mox_mox117928
+    3300140: _mox_mox117929
+    3300142: _mox_mox117930
+    3300144: _mox_mox117931
+    3300146: _mox_mox117933
+    3300148: _mox_mox117934
+    3300150: _mox_mox117935
+    3300152: _mox_mox117936
+    3300154: _mox_mox117937
+    3300156: _mox_mox117938
+    3300158: _mox_mox117939
+    3300160: _mox_mox117940
+    3300162: _mox_mox117941
+    3300164: _mox_mox117942
+    3300166: _mox_mox117943
+    3300168: _mox_mox117944
+    3300170: _mox_mox117945
+    3300172: _mox_mox117946
+    3300174: _mox_mox117947
+    3300176: _mox_mox117948
+    3300178: _mox_mox117949
+    3300180: _mox_mox117950
+    3300182: _mox_mox117951
+    3300184: _mox_mox117952
+    3300186: _mox_mox117953
+    3300188: _mox_mox117954
+    3300190: _mox_mox117955
+    3300192: _mox_mox117956
+    3300194: _mox_mox117957
+    3300196: _mox_mox117958
+    3300198: _mox_mox117959
+    3300200: _mox_mox117960
+    3300202: _mox_mox117961
+    3300204: _mox_mox117981
+    3300206: _mox_mox117982
+    3300208: _mox_mox117983
+    3300210: _mox_mox117984
+    3300212: _mox_mox117985
+    3300214: _mox_mox117986
+    3300216: _mox_mox117987
+    3300218: _mox_mox117988
+    3300220: _mox_mox117989
+    3300222: _mox_mox117990
+    3300224: _mox_mox117991
+    3300226: _mox_mox117992
+    3300228: _mox_mox117993
+    3300230: _mox_mox117994
+    3300232: _mox_mox117995
+    3300234: _mox_mox117996
+    3300236: _mox_mox2998
+    3300238: _mox_mox3997
+    3300240: _mox_mox4996
+    3300242: _mox_mox50950
+    3300244: _mox_mox51949
+    3300246: _mox_mox52948
+    3300248: _mox_mox53947
+    3300250: _mox_mox54946
+    3300252: _mox_mox55945
+    3300254: _mox_mox56944
+    3300256: _mox_mox57943
+    3300258: _mox_mox5995
+    3300260: _mox_mox60940
+    3300262: _mox_mox61939
+    3300264: _mox_mox62938
+    3300266: _mox_mox63937
+    3300268: _mox_mox64936
+    3300270: _mox_mox65935
+    3300272: _mox_mox66934
+    3300274: _mox_mox67933
+    3300276: _mox_mox68932
+    3300278: _mox_mox69931
+    3300280: _mox_mox6994
+    3300282: _mox_mox70930
+    3300284: _mox_mox71929
+    3300286: _mox_mox72928
+    3300288: _mox_mox73927
+    3300290: _mox_mox74926
+    3300292: _mox_mox75925
+    3300294: _mox_mox76924
+    3300296: _mox_mox78922
+    3300298: _mox_mox79921
+    3300300: _mox_mox7993
+    3300302: _mox_mox8992
+    3300304: _mox_mox9991
+    3300306: Box001
+    3300308: Box002
+    3300310: Box003
+    3300312: Box004
+    3300314: Box141
+    3300316: glass
+    3300318: place
+    3300320: Plane001
+    3300322: Plane001_1
+    3300324: Road_gate
+    3300326: traffic_02
+    3300328: traffic_02_2
+    3300330: "\u5BF9\u8C61001"
+    3300332: "\u5BF9\u8C61002"
+    3300334: "\u5BF9\u8C61003"
+    3300336: "\u5BF9\u8C61004"
+    3300338: "\u5BF9\u8C61005"
+    3300340: "\u5BF9\u8C61006"
+    3300342: "\u5BF9\u8C61008"
+    3300344: "\u5BF9\u8C61009"
+    3300346: "\u5BF9\u8C61011"
+    3300348: "\u6811\u76C6"
+    3300350: "\u6811\u76C6001"
+    3300352: "\u6811\u76D8"
+    3300354: "\u7ACB\u65B9\u4F53"
+    3300356: "\u7ACB\u65B9\u4F53_1"
+    3300358: "\u7ACB\u65B9\u4F53_2"
+    3300360: "\u7ACB\u65B9\u4F53_3"
+    3300362: "\u7ACB\u65B9\u4F53_4"
+    3300364: "\u7ACB\u65B9\u4F53_5"
+    4300000: "\u7ACB\u65B9\u4F53_5"
+    4300002: "\u7ACB\u65B9\u4F53"
+    4300004: "\u7ACB\u65B9\u4F53_4"
+    4300006: "\u7ACB\u65B9\u4F53_1"
+    4300008: "\u7ACB\u65B9\u4F53_3"
+    4300010: "\u7ACB\u65B9\u4F53_2"
+    4300012: "\u6811\u76C6001"
+    4300014: "\u6811\u76C6"
+    4300016: glass
+    4300018: Road_gate
+    4300020: traffic_02
+    4300022: traffic_02_2
+    4300024: 16
+    4300026: 16_2
+    4300028: 16_3
+    4300030: 16_4
+    4300032: 16_5
+    4300034: 16_6
+    4300036: 16_7
+    4300038: 16_8
+    4300040: 16_9
+    4300042: 16_10
+    4300044: 16_11
+    4300046: 16_12
+    4300048: 16_13
+    4300050: 16_14
+    4300052: 16_15
+    4300054: 16_16
+    4300056: 16_17
+    4300058: 16_18
+    4300060: 16_19
+    4300062: 16_20
+    4300064: 16_21
+    4300066: 16_22
+    4300068: 16_23
+    4300070: 16_24
+    4300072: 16_25
+    4300074: 16_26
+    4300076: 16_27
+    4300078: 16_28
+    4300080: 16_29
+    4300082: 16_30
+    4300084: 16_31
+    4300086: 16_32
+    4300088: 16_33
+    4300090: 16_34
+    4300092: 16_35
+    4300094: 16_36
+    4300096: "\u6811\u76D8"
+    4300098: 16_37
+    4300100: _mox_mox117951
+    4300102: _mox_mox117950
+    4300104: _mox_mox117949
+    4300106: _mox_mox117948
+    4300108: _mox_mox117947
+    4300110: _mox_mox117946
+    4300112: _mox_mox117945
+    4300114: _mox_mox60940
+    4300116: _mox_mox61939
+    4300118: _mox_mox62938
+    4300120: _mox_mox117944
+    4300122: _mox_mox117943
+    4300124: _mox_mox117942
+    4300126: _mox_mox117941
+    4300128: _mox_mox117940
+    4300130: _mox_mox117939
+    4300132: _mox_mox117938
+    4300134: _mox_mox117937
+    4300136: _mox_mox117933
+    4300138: _mox_mox117934
+    4300140: _mox_mox117935
+    4300142: _mox_mox117936
+    4300144: Plane001
+    4300146: _mox_mox114886
+    4300148: _mox_mox115885
+    4300150: _mox_mox67933
+    4300152: _mox_mox65935
+    4300154: _mox_mox64936
+    4300156: _mox_mox63937
+    4300158: _mox_mox57943
+    4300160: _mox_mox56944
+    4300162: _mox_mox55945
+    4300164: _mox_mox54946
+    4300166: _mox_mox53947
+    4300168: _mox_mox52948
+    4300170: _mox_mox51949
+    4300172: _mox_mox117952
+    4300174: _mox_mox117953
+    4300176: _mox_mox117954
+    4300178: _mox_mox117955
+    4300180: _mox_mox117956
+    4300182: _mox_mox50950
+    4300184: _mox_mox79921
+    4300186: _mox_mox78922
+    4300188: _mox_mox76924
+    4300190: _mox_mox74926
+    4300192: _mox_mox117957
+    4300194: _mox_mox117958
+    4300196: _mox_mox117959
+    4300198: _mox_mox117960
+    4300200: _mox_mox117961
+    4300202: _mox_mox2998
+    4300204: _mox_mox5995
+    4300206: _mox_mox6994
+    4300208: _mox_mox9991
+    4300210: _mox_mox8992
+    4300212: _mox_mox7993
+    4300214: _mox_mox4996
+    4300216: _mox_mox3997
+    4300218: _mox_mox117919
+    4300220: _mox_mox117920
+    4300222: _mox_mox117921
+    4300224: _mox_mox117922
+    4300226: _mox_mox117923
+    4300228: _mox_mox117914
+    4300230: _mox_mox117915
+    4300232: _mox_mox117916
+    4300234: _mox_mox117917
+    4300236: _mox_mox117918
+    4300238: _mox_mox117924
+    4300240: _mox_mox117925
+    4300242: _mox_mox117926
+    4300244: _mox_mox117927
+    4300246: _mox_mox117928
+    4300248: _mox_mox117929
+    4300250: _mox_mox117930
+    4300252: _mox_mox117931
+    4300254: _mox_mox117913
+    4300256: _mox_mox117910
+    4300258: _mox_mox117909
+    4300260: _mox_mox117912
+    4300262: _mox_mox117911
+    4300264: _mox_mox73927
+    4300266: _mox_mox72928
+    4300268: _mox_mox117906
+    4300270: _mox_mox117907
+    4300272: _mox_mox117908
+    4300274: _mox_mox117905
+    4300276: _mox_mox117904
+    4300278: _mox_mox117899
+    4300280: _mox_mox117996
+    4300282: _mox_mox117989
+    4300284: "\u5BF9\u8C61006"
+    4300286: _mox_mox117993
+    4300288: _mox_mox117994
+    4300290: _mox_mox117987
+    4300292: _mox_mox117995
+    4300294: _mox_mox117992
+    4300296: _mox_mox117991
+    4300298: _mox_mox117988
+    4300300: _mox_mox117990
+    4300302: "\u5BF9\u8C61005"
+    4300304: Box141
+    4300306: _mox_mox112888
+    4300308: "\u5BF9\u8C61003"
+    4300310: _mox_mox66934
+    4300312: _mox_mox117981
+    4300314: Box004
+    4300316: Box003
+    4300318: Box002
+    4300320: Box001
+    4300322: _mox_mox110890
+    4300324: _mox_mox111889
+    4300326: _mox_mox117883
+    4300328: "\u5BF9\u8C61011"
+    4300330: "\u5BF9\u8C61009"
+    4300332: _mox_mox117986
+    4300334: _mox_mox75925
+    4300336: "\u5BF9\u8C61008"
+    4300338: _mox_mox116884
+    4300340: _mox_mox68932
+    4300342: "\u5BF9\u8C61001"
+    4300344: _mox_mox117983
+    4300346: "\u5BF9\u8C61002"
+    4300348: _mox_mox117982
+    4300350: "\u5BF9\u8C61004"
+    4300352: _mox_mox117985
+    4300354: _mox_mox117984
+    4300356: _mox_mox69931
+    4300358: _mox_mox71929
+    4300360: _mox_mox70930
+    4300362: Plane001_1
+    4300364: place
+    7400000: CINEMA_4D___
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #11'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.1'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.10'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.11'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.12'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.13'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.14'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.15'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.16'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.17'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.18'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.19'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.2'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.20'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.21'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.22'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.3'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.4'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.5'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.6'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.7'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.8'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15.9'
+    second: {fileID: 2100000, guid: 69cbdd3bd23bde04c94544df210e0ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: e232ed7570069524587b8fdaa1be6b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #21'
+    second: {fileID: 2100000, guid: 9ae8cdca0f4e1c0409d7dddb6a79973b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #22'
+    second: {fileID: 2100000, guid: cf4273abf039da147b9c6c900ea772e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #23'
+    second: {fileID: 2100000, guid: 273d0b13a4b4ea64c9e235542c580f91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #24'
+    second: {fileID: 2100000, guid: a45b87d78a713b04bab936c0615671dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: a45b87d78a713b04bab936c0615671dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25.1'
+    second: {fileID: 2100000, guid: a45b87d78a713b04bab936c0615671dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: ac31cbb6724d6494da4a392d7ce6930c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29.1'
+    second: {fileID: 2100000, guid: ac31cbb6724d6494da4a392d7ce6930c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 1b211b76151a2a741a86a44fae4e7e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: a215a5b00da4095429c8ca786ee3f5e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: a215a5b00da4095429c8ca786ee3f5e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: c7aaab42fd30ec44790449544ff0cd79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: b714972cbd8bcb84cbf7ee7d029f3549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 58811dcb19ab9864db96265f2cef71c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37.1'
+    second: {fileID: 2100000, guid: 58811dcb19ab9864db96265f2cef71c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: ea5c583affb9386478e77e34dd0b9232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: cf4273abf039da147b9c6c900ea772e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: 0833c101db461ab4380e355a57e04507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4.1'
+    second: {fileID: 2100000, guid: 0833c101db461ab4380e355a57e04507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 218c6f9c9967a2f49aa094217d68b6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40.1'
+    second: {fileID: 2100000, guid: 218c6f9c9967a2f49aa094217d68b6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40.2'
+    second: {fileID: 2100000, guid: 218c6f9c9967a2f49aa094217d68b6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: c02c715d39bb7c745b0a8bec9f0da3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41.1'
+    second: {fileID: 2100000, guid: c02c715d39bb7c745b0a8bec9f0da3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41.2'
+    second: {fileID: 2100000, guid: c02c715d39bb7c745b0a8bec9f0da3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: c2010b4cd81aa4444bf6a6f6b2a5aef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: 0bf041d7e5d51c040a8c3c3b00607f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: e627ad3cb32d00949952d063743f1be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: 0a60e09bb80d24e4db11be9a5de421fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: d11de8fba207ba844a1815d82dfc92c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: f2c09b2dd3bb8524db165df8a34958c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48.1'
+    second: {fileID: 2100000, guid: f2c09b2dd3bb8524db165df8a34958c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 5a8f4e33a410a064193200effe12a4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: 8c58372975383cf4dac0b18586911620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: c3bca15d605e07342980a45831213dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6.1'
+    second: {fileID: 2100000, guid: c3bca15d605e07342980a45831213dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6.2'
+    second: {fileID: 2100000, guid: c3bca15d605e07342980a45831213dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7'
+    second: {fileID: 2100000, guid: b7c6d7d9f1d24304dadbc6809c29205b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7.1'
+    second: {fileID: 2100000, guid: b7c6d7d9f1d24304dadbc6809c29205b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #8'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.1'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.10'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.11'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.12'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.13'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.14'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.15'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.16'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.17'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.18'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.19'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.2'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.20'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.21'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.22'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.23'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.24'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.25'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.26'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.27'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.28'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.29'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.3'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.30'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.31'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.32'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.33'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.34'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.35'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.36'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.37'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.38'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.39'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.4'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.40'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.41'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.42'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.43'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.44'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.45'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.46'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.47'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.48'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.49'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.5'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.50'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.51'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.52'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.53'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.54'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.55'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.56'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.57'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.58'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.59'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.6'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.60'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.61'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.62'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.63'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.64'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.65'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.66'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.67'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.68'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.69'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.7'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.70'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.71'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.72'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.73'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.74'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.75'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.76'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.77'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.78'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.79'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.8'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.80'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.81'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.82'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.83'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.84'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.85'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.86'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.87'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.88'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.89'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.9'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.90'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.91'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.92'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.93'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.94'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.95'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.96'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.97'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.98'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9.99'
+    second: {fileID: 2100000, guid: b3b541394984d624ab3dccb411373026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 67b206e7ac3fb8247af3ba4a74786c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28"
+    second: {fileID: 2100000, guid: e605ff7cb96db2e41b4b41d134a052c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.1"
+    second: {fileID: 2100000, guid: 32229b1b890676442ac8715b16a535e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.2"
+    second: {fileID: 2100000, guid: 5b0ddae606d97454cbf1a43eef50f424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.3"
+    second: {fileID: 2100000, guid: 5719992093ecde9438601f43804a6742, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D___
+      takeName: CINEMA_4D___
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
